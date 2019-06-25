@@ -150,7 +150,7 @@ class SinglyLinkedList {
   }
 }
 
-let lst = new SinglyLinkedList;
+let lst = new SinglyLinkedList();
 lst.push(1);
 lst.push(2);
 lst.push(3);

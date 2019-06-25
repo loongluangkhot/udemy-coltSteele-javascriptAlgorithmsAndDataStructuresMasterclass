@@ -166,7 +166,7 @@ class DoublyLinkedList {
   }
 }
 
-let lst = new DoublyLinkedList;
+let lst = new DoublyLinkedList();
 lst.push(1);
 lst.push(2);
 lst.push(3);
